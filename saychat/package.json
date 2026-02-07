@@ -1,0 +1,5 @@
+{
+    "name": "Saychat",
+    "main": "electron-main.js",
+    "version": "3.2.5"
+}
